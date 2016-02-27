@@ -1,0 +1,24 @@
+{
+  "name": "emdr-capture",
+  "version": "1.0.0",
+  "description": "An EMDR client which stores price data in a MySQL database",
+  "main": "emdr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EMDR",
+    "EVE",
+    "market",
+    "prices",
+    "MySQL"
+  ],
+  "author": "TanknSpank",
+  "license": "LicenseRef-LICENSE",
+  "dependencies": {
+    "async": "^1.5.2",
+    "moment": "^2.11.2",
+    "mysql": "^2.10.2",
+	 "eve-sde-mysql": "^1.0.0"
+  }
+}

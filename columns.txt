@@ -1,0 +1,11 @@
+[ 'price',
+  'volRemaining',
+  'range',
+  'orderID',
+  'volEntered',
+  'minVolume',
+  'bid',
+  'issueDate',
+  'duration',
+  'stationID',
+  'solarSystemID' ]
